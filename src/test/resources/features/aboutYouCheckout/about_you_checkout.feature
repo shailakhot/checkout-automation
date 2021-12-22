@@ -23,9 +23,9 @@ Feature: Verify checkout functionality of about you online shopping
     @aboutYou_de
     Examples:
     | username | password | product     | size      | FirstName | LastName | StreeNo | addIno | PostalCode | City | DOB |
-    | test@tests.com | test123  | Winter jackets  | 38  | Shaila  |Khot  | am europakanal 36 | abcd | 91056  | Erlangen | 15.10.88 |
+    | test@tests.com | Validpassowrd  | Winter jackets  | 38  | Shaila  |Khot  | am europakanal 36 | abcd | 91056  | Erlangen | 15.10.88 |
 
     @aboutYou_at
     Examples:
       | username | password | product     | size      | FirstName | LastName | StreeNo | addIno | PostalCode | City | DOB |
-      | test2@aboutyou.com | test456  | jackets  | 38  | skhot  |khot  | am europakanal 2 | abcd | 91056  | Erlangen | 15.10.88 |
+      | test2@aboutyou.com | Validpassowrd  | jackets  | 38  | skhot  |khot  | am europakanal 2 | abcd | 91056  | Erlangen | 15.10.88 |
